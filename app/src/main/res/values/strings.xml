@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ajouter_une_ville">Ajouter une ville</string>
+    <string name="annuler">Annuler</string>
+    <string name="ajoute_avec_succes">ajouté avec succès!</string>
+    <string name="ville">Ville</string>
+    <string name="aucune_ville_enregistrée">Aucune ville enregistrée</string>
+    <string name="existe_déjà">existe déjà!</string>
+    <string name="température_min">Température min :</string>
+    <string name="température_max">Température max :</string>
+    <string name="conditions">Conditions :</string>
+    <string name="température">Température :</string>
+    <string name="pressure">Pressure :</string>
+    <string name="humidity">Humidity :</string>
+    <string name="wind">Wind</string>
+    <string name="speed">Speed :</string>
+</resources>
